@@ -1,1 +1,1 @@
-# dictionarymax
+# Dictionary Max
